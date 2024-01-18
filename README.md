@@ -19,7 +19,7 @@ The Cryptosystem project is a Python implementation of three cryptographic algor
 7. [Conclusion]
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your_username/cryptosystem.git
+1. Clone the repository: git clone https://github.com/Archika2504/cryptosystem.git
 2. Navigate to the project directory: cd cryptosystem
 3. Install required dependencies: pip install pycryptodome
 
